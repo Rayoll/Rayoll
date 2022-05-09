@@ -1,5 +1,4 @@
 ## Profile of Rayoll ##
-- :blush: Hi, I’m @Rayoll, an undergraduate student from Wuhan University :school:
 - I’m interested in the data mining of remote sensing imagery 👀
 - 📃Now I am dedicate to the research on depth hashing algorithm in the field of remote sensing imagery retrieval 
 - If you have similar research direction as that of mine, welcome to discuss related ideas with me :lollipop:
